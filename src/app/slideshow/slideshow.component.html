@@ -1,3 +1,22 @@
 <div class="slideshow-container">
-    <img  *ngIf="showImage" class="img-slideshow"  src="assets/anlagen/{{ anlagen[currentImage].Name }}/1.jpg">
+    <img  *ngIf="showImage" class="slideshow-img"  src="assets/anlagen/{{ anlagen[currentImage].Name }}/1.jpg">
+</div>
+<div class="slideshow-overlay">
+    <a *ngIf="showImage"  class="fadeIn">{{ anlagen[currentImage].Ort }}</a>
+</div>
+<div class="slideshow-info">
+    <div>
+        <p>Anlage {{ currentImage+1 }} / {{ anlagen.length }}</p>
+        <hr>
+        <p>Module:</p>
+        <p>Wechselrichter/Speicher:</p>
+        <p>Leistung:</p>
+    </div>
+    <div>
+        <p *ngIf="showImage">&nbsp;</p>
+        <hr *ngIf="showImage"  class="a">
+        <p *ngIf="showImage">{{ anlagen[currentImage].Module }}</p>
+        <p *ngIf="showImage">{{ anlagen[currentImage].Wechselrichter }}</p>
+        <p *ngIf="showImage">{{ anlagen[currentImage].Leistung }}</p>
+    </div>
 </div>

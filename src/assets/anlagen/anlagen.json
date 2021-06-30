@@ -1,0 +1,211 @@
+[{
+    "Name": "Asia Linh",
+    "Ort": "65232 Taunusstein",
+    "Text": "Photovoltaikanlage auf Gastronomiebetrieb",
+    "Module": "IBC Solar",
+    "Wechselrichter": "Fronius",
+    "Leistung": "9,9 kWp",
+    "Inbetriebnahme": "10.2016",
+    "Bilder":2
+},{
+    "Name": "Erich Cretti",
+    "Ort": "55278 Weinolsheim",
+    "Text": "Photovoltaikanlage auf EFH",
+    "Module": "IBC Solar",
+    "Wechselrichter": "E3DC",
+    "Leistung": "15,1 kWp",
+    "Inbetriebnahme": "10.2019",
+    "Bilder":2
+},{
+    "Name": "EVIM Idstein",
+    "Ort": "65510 Idstein",
+    "Text": "Photovoltaikanlage auf Gewerbebetrieb",
+    "Module": "IBC Solar",
+    "Wechselrichter": "SMA",
+    "Leistung": "99,96 kWp",
+    "Inbetriebnahme": "12.2015",
+    "Bilder": 2
+},{
+    "Name": "GFI Lorsch",
+    "Ort": "64653 Lorsch",
+    "Text": "Photovoltaikanlage auf Gewerbebetrieb",
+    "Module": "LG Solar",
+    "Wechselrichter": "Huawei",
+    "Leistung": "19,88 kWp",
+    "Inbetriebnahme": "10.2020",
+    "Bilder": 1
+},{
+    "Name": "Halecker Hünstetten",
+    "Ort": "65510 Hünstetten",
+    "Text": "Photovoltaikanlage auf EFH",
+    "Module": "Aleo Solar",
+    "Wechselrichter": "Huawei",
+    "Leistung": "9,97 kWp",
+    "Inbetriebnahme": "10.2015",
+    "Bilder": 4
+},{
+    "Name": "I20140_Lipecky Thomas",
+    "Ort": "64665 Alsbach-Hähnlein",
+    "Text":"Photovoltaikanlage auf Gewerbebetrieb",
+    "Module": "LG Solar",
+    "Wechselrichter": "Huawei",
+    "Leistung": "21,3 kWp",
+    "Inbetriebnahme": "10.2020",
+    "Bilder": 15
+},{
+    "Name": "I20151_Dinges",
+    "Ort": "63322 Rödermark",
+    "Text": "Photovoltaikanlage auf MFH",
+    "Module": "LG Solar",
+    "Wechselrichter": "Huawei",
+    "Leistung": "15,62 kWp",
+    "Inbetriebnahme": "08.2020",
+    "Bilder": 4
+},{
+    "Name": "I20179_Lang",
+    "Ort": "64404 Bickenbach",
+    "Text": "Photovoltaikanlage auf 2 FH",
+    "Module": "Hyundai Solar",
+    "Wechselrichter": "Huawei",
+    "Leistung": "9,45 kWp",
+    "Inbetriebnahme": "09.2020",
+    "Bilder": 4
+},{"Name": "I20195_Krüger",
+    "Ort":"63225 Langen",
+    "Text":"Photovoltaikanlage auf EFH",
+        "Module": "LG Solar",
+        "Wechselrichter": "Huawei",
+        "Leistung": "8,52 kWp",
+        "Inbetriebnahme": "07.2020",
+        "Bilder":4
+},{
+    "Name":"I20209_Noack",
+    "Ort": "64560 Riedstadt",
+    "Text": "Photovoltaikanlage auf EFH",
+        "Module": "Hyundai Solar",
+        "Wechselrichter": "Huawei",
+        "Leistung": "9,1 kWp",
+        "Inbetriebnahme": "11.2020",
+        "Bilder":2
+},{
+    "Name": "I20213_Mundt Biebelnheim",
+    "Ort":    "55234 Biebelnheim",
+    "Text":    "Photovoltaikanlage auf Neubau",
+        "Module": "LG Solar",
+        "Wechselrichter": "E3DC",
+        "Leistung": "9,94 kWp",
+        "Inbetriebnahme": "07.2020",
+        "Bilder":5
+},{
+    "Name": "I20236_Hotel Kraft",
+    "Ort": "67598 Gundersheim",
+    "Text": "Photovoltaikanlage auf einem Hotel",
+        "Module": "Hyundai Solar",
+        "Wechselrichter": "Huawei",
+        "Leistung": "37,8 kWp",
+        "Inbetriebname": "11.2020",
+    "Bilder":6
+},{        
+    "Name":   "I20292_Kreth",
+    "Ort":    "64404 Bickenbach",
+    "Text":    "Photovoltaikanlage auf EFH",
+        "Module": "Hyundai Solar",
+        "Wechselrichter": "Huawei",
+        "Leistung": "9,8 kWp",
+        "Inbetriebname": "10.2020",
+        "Bilder": 5
+},{        
+    "Name":  "I20312_Paas Bürstadt", 
+    "Ort":    "68642 Bürstadt",
+    "Text":    "Photovoltaikanlage auf EFH",
+        "Module": "LG Solar",
+        "Wechselrichter": "Huawei",
+        "Leistung": "9,72 kWp",
+        "Inbetriebname": "12.2020",
+        "Bilder":2
+},{        
+    "Name":   "I20314_Güngörmüs",
+    "Ort":    "64404 Bickenbach",
+    "Text":    "Photovoltaikanlage auf EFH",
+        "Module": "Hyundai Solar",
+        "Wechselrichter": "Huawei",
+        "Leistung": "6,3 kWp",
+        "Inbetriebname": "12.2020",
+        "Bilder":2
+},{        
+    "Name": "I20330_Ohl Bürstadt",
+    "Ort":    "68642 Bürstadt",
+    "Text":    "Photovoltaikanlage auf MFH",
+        "Module": "LG Solar",
+        "Wechselrichter": "LG Electronics",
+        "Leistung": "8,64 kWp",
+        "Inbetriebname": "11.2020",
+        "Bilder": 2
+},{        
+    "Name":  "I20367_Winkler Bürstadt",
+    "Ort":    "68642 Bürstadt",
+    "Text":    "Photovoltaikanlage auf EFH",
+        "Module": "LG Solar",
+        "Wechselrichter": "Huawei",
+        "Leistung": "8,64 kWp",
+        "Inbetriebname": "01.2021",
+    "Bilder": 2        
+},{
+        
+    "Name":  "Lehrian_Rau Roßdorf",
+    "Ort":    "64380 Roßdorf",
+    "Text":    "Photovoltaikanlagen auf Reihenhäuser",
+        "Module": "LG Solar",
+        "Wechselrichter": "Huawei",
+        "Leistung": "jeweils 5,68 kWp",
+        "Inbetriebname": "05.2020",
+        "Bilder":3
+},{
+        
+    "Name":   "Marc Schüler_Pfaffen-Schwabenheim",
+    "Ort":    "55546 Pfaffen-Schwabenheim",
+    "Text":    "Photovoltaikanlage auf EFH",
+        "Module": "IBC Solar",
+        "Wechselrichter": "Fronius",
+        "Leistung": "11,1 kWp",
+        "Inbetriebname": "10.2019",
+        "Bilder":5
+},{        
+    "Name":  "P020017_Neumann",
+    "Ort":    "63322 Rödermark",
+    "Text":    "Photovoltaikanlage auf Reihenhaus",
+        "Module": "LG Solar",
+        "Wechselrichter": "E3DC",
+        "Leistung": "9,585 kWp",
+        "Inbetriebname": "05.2020",
+        "Bilder":2
+},{        
+    "Name":    "P020024_Reinig",
+    "Ort":    "63110 Rodgau",
+    "Text":    "Photovoltaikanlage auf 2 FH",
+        "Module": "Trina Solar",
+        "Wechselrichter": "Huawei",
+        "Leistung": "21,78 kWp",
+        "Inbetriebname": "05.2020",
+        "Bilder":2
+},{        
+    "Name":    "P020037_Jochen Müller",
+    "Ort":    "64295 Darmstadt",
+    "Text":    "Photovoltaikanlage auf Gewerbebetrieb",
+        "Module": "Trina Solar",
+        "Wechselrichter": "Huawei",
+        "Leistung": "29,48 kWp",
+        "Inbetriebname": "11.2020",
+        "Bilder":8
+},{        
+    "Name": "P020056_Patrik Thomas",
+    "Ort":    "67582 Mettenheim",
+     "Text":   "Erweiterung einer Photovoltaikanlage auf Gewerbebetrieb",
+        "Module": "LG Solar",
+        "Wechselrichter": "E3DC",
+        "Leistung": "24,85 kWp (nur Erweiterung)",
+        "Inbetriebname": "07.2020",
+    "Bilder":4
+
+   }
+]
